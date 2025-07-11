@@ -1,0 +1,5 @@
+node_modules/
+client_input.zip
+assets
+logs
+package-lock.json
